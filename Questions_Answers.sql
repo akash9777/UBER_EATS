@@ -9,6 +9,8 @@
 --7. Month over month revenue growth of uber
 --8. Find every Customer - favorite food
 
+--  //please take care that the keyword "uber" used in this code is the name of database. So do not be confused woth word "uber"//
+
 
 --1. Find customers who have never ordered
 
