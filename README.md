@@ -8,6 +8,8 @@ PROBLEM IDENTIFICATION- UBER EATS is facing the reductions in their orders so we
 
 HOW TO START- To start this case study, we prepared some tables from their dataset so that we come to visualize some facts. Below are some tables-
 
+![Screenshot 2024-02-12 212300](https://github.com/akash9777/UBER_EATS/assets/159752126/b5acf3e8-d8ed-42b1-baa4-98d719ccf1ea)
+
 ![Screenshot (205)](https://github.com/akash9777/UBER_EATS/assets/159752126/22399c53-9b98-441d-9771-6e18dc482ecc)
 
 
