@@ -5,7 +5,7 @@ In a recent time, there is curtailment in the number of orders of UBER EATS. So 
 So we have to help the UBER EATS in their data analysis by answering some prominent questions.
 
 
-                           ![uber-eats](https://github.com/akash9777/UBER_EATS/assets/159752126/ea911424-d1b2-440c-ba90-3a402c904f5e)
+ ![uber-eats](https://github.com/akash9777/UBER_EATS/assets/159752126/ea911424-d1b2-440c-ba90-3a402c904f5e)
 
 
 PROBLEM IDENTIFICATION- UBER EATS is facing the reductions in their orders so we need to help them by identifying some clues from their dataset.
