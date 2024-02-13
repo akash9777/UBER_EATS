@@ -26,13 +26,14 @@ HOW TO START- To start this case study, we prepared some tables from their datas
 we prepared some lists of questions. With the help of these questions, we can reach out to solution of this problem. Below are some questions-
 
 1. Find customers who have never ordered
-2.Find  Average Price of every dish
+2. Find  Average Price of every dish
 3. Find the top restaurant in terms of the number of orders from May to July month
 4. Find restaurants with monthly sales greater than 1000 for july month
 5. Show all orders with order details for a customer named “Ankit” in “July” month
 6. Find restaurants with max repeated customers
 7. Month over month revenue growth of uber
 8. Find every Customer - favorite food
+
    
 
 
