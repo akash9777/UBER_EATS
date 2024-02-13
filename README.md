@@ -12,10 +12,14 @@ HOW TO START- To start this case study, we prepared some tables from their datas
 
 ![Menu](https://github.com/akash9777/UBER_EATS/assets/159752126/4e7d1a1c-a5e4-4253-b09b-8a2e8f62cccb)
 
-![orders](https://github.com/akash9777/UBER_EATS/assets/159752126/abe919b4-3552-4470-9dc1-cce15b2a61a2)
+
 ![Restau](https://github.com/akash9777/UBER_EATS/assets/159752126/79c3bc2b-655b-4593-8a1f-8fb79492ca01)
+
 ![users](https://github.com/akash9777/UBER_EATS/assets/159752126/aed2bd4e-15c4-4225-9491-96aaad3cc73c)
+
 ![Delivery+Partner](https://github.com/akash9777/UBER_EATS/assets/159752126/f4f92b01-acfc-4354-8759-46e1b2216e1f)
+
+![orders](https://github.com/akash9777/UBER_EATS/assets/159752126/abe919b4-3552-4470-9dc1-cce15b2a61a2)
 
 
 
