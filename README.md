@@ -23,8 +23,6 @@ HOW TO START- To start this case study, we prepared some tables from their datas
 
 
 
-
-
 we prepared some lists of questions. With the help of these questions, we can reach out to solution of this problem. Below are some questions-
 
 1. Find customers who have never ordered
