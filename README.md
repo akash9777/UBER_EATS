@@ -48,6 +48,16 @@ Conclusion- It is also very important part of information. By knowing their grow
 Conclusion- By knowing this answer, uber can show a list of favourite foods on their portal for a particular location. So there are chances that sales will increase furthur of these items in list.
 
 
-   
+
+
+How UBER EATS will be benifited form this case study- If we follow all these questions of this case study, then Uber will be benifited like-
+
+1. Uber Can show their restaurent on top which have more numbers of orders
+2. Uber can manipulate the discounted price by knowing the average price of any dish at any city
+3. Uber can optimize their spending on advertisment and discounts by knowing growth of sales.
+4. Uber can focus more on the customoers who have never ordered.
+5. Uber can rate the favourite dish of customers on top
+
+  
 
 
