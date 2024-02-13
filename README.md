@@ -29,21 +29,33 @@ HOW TO START- To start this case study, we prepared some tables from their datas
 we prepared some lists of questions. With the help of these questions, we can reach out to solution of this problem. Below are some questions and the reasons are given why these questions are selected
 
 1. Find customers who have never ordered
+
 Conclusion-By knowing the answer of this question, we come to know the numbers of users and their basic details of the users who are not giving any order of food. Then we can focus more on these customers by giving more discound in a particular area or by running some advertisements. Basically we will try to reach these customers by some tactical solutions. 
 
+
+
 2. Find  Average Price of every dish
+
 Conclusion- It is very important information of any food delivery platform. Management  as well as staff of Uber should have the idea of average price of every dish which they are delivering. By doing so, they can differentiate their discount price to a particular location according to particular restaurent. Because every restaurent have different price but if Uber have idea of average price of any dish, then they can easily optimize the discounted price of any dish at a partcular location.
 
+
 3. Find the top restaurant in terms of the number of orders from May to July month
+
 Conclusion- This is very prominent part of information. By knowing this parmeter, they can show a particular restaurent which have more number of orders to customers first.
 
+
 4. Find restaurants with monthly sales greater than 1000 for july month
+
 Conclusion- Management of Uber should have idea about the monthly sales so that they can show the resaurents on top which have more orders and sales
 
+
 5. Month over month revenue growth of uber
+
 Conclusion- It is also very important part of information. By knowing their growth in terms of profit and loss, they can forecast their future plans and manage their discounts and advertisement budget accordingly.
 
+
 6. Find every Customer - favorite food
+
 Conclusion- By knowing this answer, uber can show a list of favourite foods on their portal for a particular location. So there are chances that sales will increase furthur of these items in list.
 
 
