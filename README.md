@@ -2,7 +2,7 @@
 
 This case study is based on real world problem. This case study is related to the UBER EATS which is a thriving food delivery platform in India. Management of UBER EATS manages the analysis of their platform. In this analysis, they generally tends to take care of their number of orders, repeated customers, most rated dish etc. 
 
-In a recent time, there is curtailment in the number of orders of UBER EATS. So management wants to ascertain the reasons behind it. That is why UBER EATS is trying to connect with consultant which can solve their problem of diminishig orders.
+In a recent time, there is curtailment in the number of orders of UBER EATS. So management wants to ascertain the reasons behind it. That is why UBER EATS is trying to connect with consultant which can solve their problem of diminishing orders.
 So we have to help the UBER EATS in their data analysis by answering some prominent questions.
 
 
