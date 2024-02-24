@@ -1,4 +1,4 @@
-## CASE STUDY TO ICREASE THE NUMBER OF ORDERS OF UBER EATS
+## CASE STUDY TO INCREASE THE NUMBER OF ORDERS OF UBER EATS
 
 This case study is based on real world problem. This case study is related to the UBER EATS which is a thriving food delivery platform in India. Management of UBER EATS manages the analysis of their platform. In this analysis, they generally tends to take care of their number of orders, repeated customers, most rated dish etc. 
 
